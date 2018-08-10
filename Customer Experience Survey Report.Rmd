@@ -1,0 +1,263 @@
+---
+title: "__Customer Experience Survey Report__"
+author: "IT Strategy and Planning Reporting Team"
+date: "August 8, 2018"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+#__Overview & Summary__
+
+The purpose of this project was to have a stronger understanding of user preference when submitting a ticket. A _Qualtrics_ survey was created to receive user feedback based on their experiences with the IT ticket submission process. In total there were __110 participants__, broken up to __37 students__ , __37 faculty members__ and __36 administrators__. 
+
+```{r echo = FALSE, message = FALSE}
+library(tidyverse)
+library(dplyr)
+library(ggthemes)
+library(ggridges)
+library(readr)
+library(wesanderson)
+
+SurveyData <- read.csv("https://raw.githubusercontent.com/sy17001/Cars/master/SurveyData.csv") %>%
+  select(
+    starts_with("What"), 
+    starts_with("Have"), 
+    starts_with("After"),  
+    starts_with("From"), 
+    starts_with("Which"),
+    starts_with("Please"), 
+    starts_with("If"),
+    starts_with("How"), 
+    starts_with("Resolution"), 
+    starts_with("Overall"), 
+    starts_with("Based")
+  ) 
+
+HowLongBeforeContact <- SurveyData %>% 
+  filter(After.submitting.a.request.for.help..did.you.receive.a.follow.up.about.your.issue. == "Yes")
+
+SupportServices <- read.csv("https://raw.githubusercontent.com/sy17001/Cars/master/Customer%20Experience%20Survey%20Report%20revised.csv") %>% 
+  select(
+    starts_with("What"), 
+    starts_with("Have"), 
+    starts_with("After"),  
+    starts_with("From"), 
+    starts_with("Which"),
+    starts_with("Please"), 
+    starts_with("If"),
+    starts_with("How"), 
+    starts_with("Resolution"), 
+    starts_with("Overall"), 
+    starts_with("Based")
+  ) 
+
+Service_Pre_Ranking <- read_csv("https://raw.githubusercontent.com/sy17001/Cars/master/Service%20Pre-Ranking.csv")
+
+Student <- SurveyData %>% 
+  filter(What.type.of.user.are.you. == "Student")
+
+FacultyStaff <- SurveyData %>% 
+  filter(What.type.of.user.are.you. == "Faculty/Staff")
+
+Administrator <- SurveyData %>% 
+  filter(What.type.of.user.are.you. == "Administrator")
+
+
+```
+
+
+##__Most Common Users__
+
+There are significantly more __administrators__, __faculty and staff__ that submit tickets compared to __students__. Improvements to the IT ticket submission process whould be geared toward the faculty and administrators as opposed to students. 
+
+```{r echo = FALSE}
+ggplot() +
+  geom_bar(SurveyData, 
+           mapping = aes(x = Have.you.ever.submitted.a.ticket.request.for.technology.help., 
+                         fill = What.type.of.user.are.you.), 
+           position = "dodge") + 
+  labs(x = "Have you ever submitted a ticket/request for technology help?", 
+       y = "Response Count", 
+       title = "Which user submits more tickets?", 
+       subtitle = "Faculty, Staff and Admistrators submitted significantly more tickets compared to students.",
+       fill = "User Type") + 
+  annotate(geom = "text", 
+           x = 7/10, 
+           y = 11, 
+           label = "13", 
+           size = 8) +
+  annotate(geom = "text", 
+           x = 1, 
+           y = 1.5, 
+           label = "3", 
+           size = 8) + 
+  annotate(geom = "text", 
+           x = 1.3125, 
+           y = 31, 
+           label = "33", 
+           size = 8) + 
+  annotate(geom = "text", 
+           x = 1.6875, 
+           y = 21, 
+           label = "23", 
+           size = 8) + 
+  annotate(geom = "text", 
+           x = 2, 
+           y = 32, 
+           label = "34", 
+           size = 8) + 
+  annotate(geom = "text", 
+           x = 2.3125, 
+           y = 2.5, 
+           label = "4", 
+           size = 8) + 
+  theme_calc()
+```
+
+
+##__Ticket Response Time__
+Of the 58 surveyed users who submitted an IT ticket request and received a follow up, 36 of the users were contacted within one day or less. While this accounted for 62.1% of the users, the desire is to increase the response rate. It is true that IT issues can require much time befoe resolution, the __act of contacting the ticket requestor can be quick and immedeate__. One possible result of increased response times would be less frustration and higher user satisfaction. 
+
+```{r echo = FALSE}
+ggplot() + 
+  geom_bar(HowLongBeforeContact, 
+           mapping = aes(x = From.the.time.that.you.submitted.a.request..how.long.was.it.before.someone.contacted.you., 
+                         fill = What.type.of.user.are.you.)) + 
+  labs(x = "Amount of time between ticket submission and contact", 
+       y = "Response Count", 
+       fill = "User Type", 
+       title = "Quick response time, but there's room for improvement", 
+       subtitle = "While response time is within one day, 37.9% of the submissions are being responded to later.") + 
+  annotate(geom = "text", 
+           x = 1, 
+           y = 38, 
+           label = "36", 
+           size = 6) + 
+  annotate(geom = "text", 
+           x = 2, 
+           y = 21, 
+           label = "19", 
+           size = 6) + 
+  annotate(geom = "text", 
+           x = 3, 
+           y = 4, 
+           label = "2", 
+           size = 6) + 
+  annotate(geom = "text", 
+           x = 4, 
+           y = 3, 
+           label = "1", 
+           size = 6) + 
+  theme_calc()
+
+```
+
+
+##__Popular Services and Satisfaction__
+Users were asked to select all of the services that they had used in the past. The services consisted of Phone, Email, Walk In, Web Form, Live Chat, Self Help Articles as well as an option for None of the Above. Of the __110 users surveyed__, there were __72 users__ who received help via __Phone__, and __54 users__ who received hlep via __Email__. 
+After using the service, 76 users responded saying that their issue was resolved via their selected service, while 13 users responded negatively, witht their service left unsolved. This gives a __success rate of 85.4%__. 
+
+```{r echo = FALSE}
+ggplot(SupportServices) + 
+  geom_bar(mapping = aes(x = Which.of.these.support.services.have.you.used...Select.all.that.apply.,
+                         fill = What.type.of.user.are.you.),
+           stat = "count") + 
+  labs(x = "Response Count", 
+       y = "Support Service Type", 
+       fill = "User Type", 
+       title = "Which Support Service made Users the most satisfied", 
+       subtitle = "While Phone was the most successful services, how can the other services improve?") + 
+  coord_flip() +
+  facet_wrap(.~ Overall..I.am.very.satisfied.with.the.support.services.offered.by.BYUI.) + 
+  theme_calc()
+
+```
+
+
+##__User Service Preferences__
+Users were asked to rank six different IT service options according the service they would most likely use first. In the heat map, the darker the shade of blue on the gradient meant more votes received in that category. As we can see, Phone service was ranked as the number one preferred option. 
+The average preferences were:
+
+__1. Phone__
+
+__2. Email__
+
+__3. Walk In__ 
+
+__4. Web Form__
+
+__5. Self Help Articles__
+
+__6. Live Chat__
+
+
+```{r echo = FALSE}
+ggplot(Service_Pre_Ranking) + 
+  geom_tile(mapping = aes(x = Rank, 
+                          y = Service, 
+                          fill = Pre.Count, 
+                          color = Service, 
+                          width= 1,
+                          height= .85)) +
+  scale_fill_gradient2(low="white", mid="dodgerblue", high="dodgerblue4", 
+                       midpoint=30) +
+  labs(title = "Most users prefer Phone service", 
+       subtitle = "While Phone service and Email are the popular services, the other four services are equally preferred.", 
+       fill = "Count") + 
+  theme_calc()
+
+``` 
+
+
+After receiving the initial question, users were shown the __average resolution times for each service__. 
+
+* Web Form: 34.2 hours or 4 days
+
+* Email: 34.2 hours or 4 days
+
+* Walk In: 30.2 hours or 3 days
+
+* Phone: 18.11 hours or 2 days
+
+* Live Chat: 11.39 hours or 1.5 days
+
+* Self Help Articles: At your convenience
+
+After learning of the average resolution times, users were then asked the same question as to their preference of service. Please note that while __Live Chat__ was ranked last, it is the service with the quickest average resolution time. 
+
+
+```{r echo = FALSE}
+ggplot(Service_Pre_Ranking) + 
+  geom_tile(mapping = aes(x = Rank, 
+                          y = Service, 
+                          fill = Post.Count, 
+                          color = Service, 
+                          width= 1,
+                          height= .85)) +
+  scale_fill_gradient2(low="white", mid="dodgerblue", high="dodgerblue4", 
+                       midpoint=30) + 
+  labs(title = "Live Chat makes a huge climb", 
+       subtitle = "Awareness of the service resolution times changes user preferences. ", 
+       fill = "Count") +
+  theme_calc()
+
+```
+
+The new user ranking for preferred service now has __Live Chat__ ranked at second. 
+
+__1. Phone__
+
+__2. Live Chat__ (Moved up from 6th to 2nd)
+
+__3. Email__
+
+__4. Walk In__
+
+__5. Web Form__
+
+__6. Self Help Articles__
+
+If there was more user awareness, would IT Live Chat become a more prominent service option for users with IT ticket issues? 
+
