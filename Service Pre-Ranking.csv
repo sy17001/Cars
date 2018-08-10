@@ -1,0 +1,37 @@
+﻿Service ,Rank,Pre.Count,Post.Count 
+Web Form,Rank 1,6,5
+Web Form,Rank 2,9,6
+Web Form,Rank 3,25,12
+Web Form,Rank 4,30,34
+Web Form,Rank 5,28,35
+Web Form,Rank 6,10,15
+Email,Rank 1,21,9
+Email,Rank 2,43,32
+Email,Rank 3,25,25
+Email,Rank 4,14,26
+Email,Rank 5,5,11
+Email,Rank 6,0,4
+Phone,Rank 1,62,47
+Phone,Rank 2,28,42
+Phone,Rank 3,12,10
+Phone,Rank 4,3,5
+Phone,Rank 5,2,1
+Phone,Rank 6,1,2
+Self Help,Rank 1,4,3
+Self Help,Rank 2,6,1
+Self Help,Rank 3,8,6
+Self Help,Rank 4,24,16
+Self Help,Rank 5,34,41
+Self Help,Rank 6,32,40
+Live Chat,Rank 1,8,39
+Live Chat,Rank 2,9,19
+Live Chat,Rank 3,11,18
+Live Chat,Rank 4,21,10
+Live Chat,Rank 5,27,10
+Live Chat,Rank 6,32,11
+Walk In ,Rank 1,7,4
+Walk In ,Rank 2,13,7
+Walk In ,Rank 3,27,36
+Walk In ,Rank 4,16,16
+Walk In ,Rank 5,12,9
+Walk In ,Rank 6,33,35

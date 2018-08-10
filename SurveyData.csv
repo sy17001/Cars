@@ -1,0 +1,191 @@
+﻿Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,What type of user are you?,"Have you
+ever submitted a ticket/request for technology help?","After submitting a request for help, did you receive a follow-up about your issue?","From the time that you submitted a request, how long was it before someone contacted you?",Which of these support services have you used? (Select all that apply),After using [QID2-ChoiceGroup-SelectedChoices] was your problem solved?,Which support service did not help you resolve your tech issue? (Select all that apply),Please explain why your issue was not resolved:,"If these
+services were provided, which support process would you prefer to use to solve an
+issue (rank from most to least)? - Web Form","If these
+services were provided, which support process would you prefer to use to solve an
+issue (rank from most to least)? - Email","If these
+services were provided, which support process would you prefer to use to solve an
+issue (rank from most to least)? - Phone","If these
+services were provided, which support process would you prefer to use to solve an
+issue (rank from most to least)? - Self Help Articles","If these
+services were provided, which support process would you prefer to use to solve an
+issue (rank from most to least)? - Live Chat","If these
+services were provided, which support process would you prefer to use to solve an
+issue (rank from most to least)? - Walk In",How long would you expect the issue to be resolved using [QID1-ChoiceGroup-ChoiceWithLowestValue]?,"Resolution Times for Services (Times may vary upon Issue, Operation Hours: 8 am - 5 pm):
+Web Form - 34.2 hours during Operation or 4 days
+
+Email - 34.2 hours during Operation or 4 daysWalk In - 30.2 hours during Operation or 3 days
+
+Phone - 18.11 hours during Operation or 2 days
+Live Chat - 11.39 hours during Operation or 1.5 days
+Self Help Articles - at your convenience
+
+
+
+After knowing the resolution times for each of these services, how would you rank them according to your preference (rank from most to least). - Web Form","Resolution Times for Services (Times may vary upon Issue, Operation Hours: 8 am - 5 pm):
+Web Form - 34.2 hours during Operation or 4 days
+
+Email - 34.2 hours during Operation or 4 daysWalk In - 30.2 hours during Operation or 3 days
+
+Phone - 18.11 hours during Operation or 2 days
+Live Chat - 11.39 hours during Operation or 1.5 days
+Self Help Articles - at your convenience
+
+
+
+After knowing the resolution times for each of these services, how would you rank them according to your preference (rank from most to least). - Email","Resolution Times for Services (Times may vary upon Issue, Operation Hours: 8 am - 5 pm):
+Web Form - 34.2 hours during Operation or 4 days
+
+Email - 34.2 hours during Operation or 4 daysWalk In - 30.2 hours during Operation or 3 days
+
+Phone - 18.11 hours during Operation or 2 days
+Live Chat - 11.39 hours during Operation or 1.5 days
+Self Help Articles - at your convenience
+
+
+
+After knowing the resolution times for each of these services, how would you rank them according to your preference (rank from most to least). - Phone","Resolution Times for Services (Times may vary upon Issue, Operation Hours: 8 am - 5 pm):
+Web Form - 34.2 hours during Operation or 4 days
+
+Email - 34.2 hours during Operation or 4 daysWalk In - 30.2 hours during Operation or 3 days
+
+Phone - 18.11 hours during Operation or 2 days
+Live Chat - 11.39 hours during Operation or 1.5 days
+Self Help Articles - at your convenience
+
+
+
+After knowing the resolution times for each of these services, how would you rank them according to your preference (rank from most to least). - Self Help Articles","Resolution Times for Services (Times may vary upon Issue, Operation Hours: 8 am - 5 pm):
+Web Form - 34.2 hours during Operation or 4 days
+
+Email - 34.2 hours during Operation or 4 daysWalk In - 30.2 hours during Operation or 3 days
+
+Phone - 18.11 hours during Operation or 2 days
+Live Chat - 11.39 hours during Operation or 1.5 days
+Self Help Articles - at your convenience
+
+
+
+After knowing the resolution times for each of these services, how would you rank them according to your preference (rank from most to least). - Live Chat","Resolution Times for Services (Times may vary upon Issue, Operation Hours: 8 am - 5 pm):
+Web Form - 34.2 hours during Operation or 4 days
+
+Email - 34.2 hours during Operation or 4 daysWalk In - 30.2 hours during Operation or 3 days
+
+Phone - 18.11 hours during Operation or 2 days
+Live Chat - 11.39 hours during Operation or 1.5 days
+Self Help Articles - at your convenience
+
+
+
+After knowing the resolution times for each of these services, how would you rank them according to your preference (rank from most to least). - Walk In","Overall, I am very satisfied with the support services offered by BYUI.",How could we improve our technology support services at BYU-Idaho?,"Based on your experience with our Technical
+Support, how likely would you recommend these resources to someone?",Q20 - Topics
+3/22/2018 11:03,3/22/2018 11:05,IP Address,157.201.109.117,100,136,TRUE,3/22/2018 11:05,R_1GIkNvxRe9pKcdm,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,Email,Yes,,,5,1,2,6,3,4,1 day or less,5,2,4,6,1,3,Somewhat satisfied,,Somewhat likely,
+3/22/2018 11:05,3/22/2018 11:08,IP Address,157.201.109.117,100,198,TRUE,3/22/2018 11:08,R_saP30dFxohJKGFb,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,2,1,4,3,5,6,2-3 days,2,1,4,3,5,6,Neither satisfied nor dissatisfied,,Neither likely nor unlikely,
+3/22/2018 11:08,3/22/2018 11:20,IP Address,157.201.109.117,100,681,TRUE,3/22/2018 11:20,R_27ONZmFJjGT1FvV,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,4,3,2,6,1,5,1 day or less,3,6,2,5,1,4,Neither satisfied nor dissatisfied,,Neither likely nor unlikely,
+3/22/2018 11:20,3/22/2018 11:23,IP Address,157.201.109.117,100,221,TRUE,3/22/2018 11:23,R_BJ1d3LgBNHdRmLv,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,4,5,1,6,2,3,1 day or less,5,6,2,4,1,3,Neither satisfied nor dissatisfied,,Neither likely nor unlikely,
+3/22/2018 11:23,3/22/2018 11:31,IP Address,157.201.109.117,100,478,TRUE,3/22/2018 11:31,R_2EiRJgqhg6UnHIS,,,,,43.77609253,-111.6910019,anonymous,EN,Student,Yes,Yes,4-5 days,Phone,Yes,,,6,3,2,1,4,5,1 day or less,5,4,2,6,1,3,Somewhat satisfied,,Extremely likely,
+3/22/2018 11:31,3/22/2018 11:45,IP Address,157.201.109.117,100,835,TRUE,3/22/2018 11:45,R_8xlKWouM8VeGYcp,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,"Phone,Live Chat",No,"Self Help Articles,Walk In",,4,3,1,5,2,6,1 day or less,4,3,2,5,1,6,Neither satisfied nor dissatisfied,,Neither likely nor unlikely,
+3/22/2018 11:51,3/22/2018 11:53,IP Address,157.201.109.117,100,123,TRUE,3/22/2018 11:53,R_3ewe6jWgvEuibV8,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,"Email,Phone,Live Chat,Walk In",Yes,,,5,3,1,6,2,4,2-3 days,5,3,1,6,2,4,Extremely satisfied,,Somewhat likely,
+3/23/2018 9:25,3/23/2018 9:27,IP Address,157.201.113.116,100,120,TRUE,3/23/2018 9:27,R_2VmR6GhQHha5pjc,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,Email,Yes,,,5,3,2,6,1,4,2-3 days,5,4,2,6,1,3,Somewhat satisfied,,Somewhat likely,
+3/23/2018 9:27,3/23/2018 9:40,IP Address,157.201.117.102,100,765,TRUE,3/23/2018 9:40,R_3hEHQzdWK0pjvxw,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,5,3,2,4,6,1,2-3 days,5,6,2,4,1,3,Neither satisfied nor dissatisfied,,Neither likely nor unlikely,
+3/23/2018 9:40,3/23/2018 9:43,IP Address,157.201.117.102,100,216,TRUE,3/23/2018 9:43,R_1MMNpqr8EcPgD1w,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,5,3,2,6,4,1,1 day or less,6,3,1,5,4,2,Neither satisfied nor dissatisfied,,Neither likely nor unlikely,
+3/23/2018 9:43,3/23/2018 9:46,IP Address,157.201.117.102,100,175,TRUE,3/23/2018 9:46,R_3P68YKDHkuXzTcD,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,3,2,1,4,6,5,1 day or less,4,3,2,5,1,6,Neither satisfied nor dissatisfied,,Neither likely nor unlikely,
+3/23/2018 9:46,3/23/2018 9:56,IP Address,157.201.104.250,100,588,TRUE,3/23/2018 9:56,R_2EAcuyhV1wBquXN,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,Phone,Yes,,,6,3,1,5,2,4,2-3 days,6,4,1,5,2,3,Somewhat satisfied,,Somewhat likely,
+3/26/2018 10:27,3/26/2018 10:49,IP Address,157.201.127.247,100,1318,TRUE,3/26/2018 10:49,R_2eX2sErcJLkysaW,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,5,3,1,6,4,2,1 day or less,5,4,2,6,1,3,Extremely satisfied,,,
+3/26/2018 10:49,3/26/2018 10:55,IP Address,157.201.127.247,100,318,TRUE,3/26/2018 10:55,R_2rZTlxS18R7Zm27,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,"Web Form,Email,Phone,Self Help Articles,Live Chat,Walk In",Yes,,,4,3,1,5,2,6,1 day or less,4,5,2,6,1,3,Extremely satisfied,,Extremely likely,
+3/26/2018 10:55,3/26/2018 10:59,IP Address,157.201.97.24,100,256,TRUE,3/26/2018 10:59,R_3M66GOsHQDPkSKU,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,Phone,Yes,,,5,2,1,6,3,4,1 day or less,4,3,2,5,1,6,Extremely satisfied,,Extremely likely,
+3/26/2018 10:59,3/26/2018 11:04,IP Address,157.201.97.24,100,284,TRUE,3/26/2018 11:04,R_A4lsAivefHAM5xL,,,,,43.77609253,-111.6910019,anonymous,EN,Student,Yes,Yes,2-3 days,Email,Yes,,,4,1,3,5,6,2,2-3 days,4,5,2,6,1,3,Extremely satisfied,,Extremely likely,
+3/26/2018 11:04,3/26/2018 11:13,IP Address,157.201.127.247,100,547,TRUE,3/26/2018 11:13,R_DwxaYLhKR1bn80F,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,Phone,Yes,,,5,3,1,6,4,2,1 day or less,5,4,1,6,3,2,Extremely satisfied,,Somewhat likely,
+3/26/2018 11:13,3/26/2018 11:24,IP Address,157.201.97.7,100,687,TRUE,3/26/2018 11:24,R_V22wjTEfLs1Kuzf,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,"Email,Phone,Walk In",Yes,,,3,1,2,4,6,5,2-3 days,3,2,1,4,6,5,Extremely satisfied,,Extremely likely,
+3/26/2018 11:24,3/26/2018 11:29,IP Address,157.201.97.7,100,259,TRUE,3/26/2018 11:29,R_1gO70E4k9DIA4q8,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,Live Chat,No,Live Chat,,4,5,3,6,1,2,1 day or less,4,5,3,6,1,2,Somewhat dissatisfied,didn't know what happened  didtnt set appointment,Somewhat likely,Unknown
+3/26/2018 11:29,3/26/2018 11:31,IP Address,157.201.97.7,100,142,TRUE,3/26/2018 11:31,R_3lYPeWACqpcNzKZ,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,Email,Yes,,,5,1,2,6,4,3,2-3 days,5,4,2,6,1,3,Extremely satisfied,,Extremely likely,
+3/26/2018 11:31,3/26/2018 11:36,IP Address,157.201.97.7,100,285,TRUE,3/26/2018 11:36,R_Oj84BUIcI9WnygN,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,5,2,1,6,4,3,2-3 days,5,4,2,6,1,3,Extremely satisfied,,,
+3/26/2018 11:36,3/26/2018 11:38,IP Address,157.201.97.7,100,150,TRUE,3/26/2018 11:38,R_3NIDcxBFRUn1o4u,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,4,1,2,5,6,3,1 day or less,6,2,3,5,1,4,Extremely satisfied,,,
+3/26/2018 11:38,3/26/2018 11:47,IP Address,157.201.127.254,100,500,TRUE,3/26/2018 11:47,R_27OveyiOLxK4AID,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,"Email,Walk In",Yes,,,5,2,3,6,4,1,2-3 days,5,4,2,6,1,3,Extremely satisfied,,Extremely likely,
+3/26/2018 11:47,3/26/2018 11:52,IP Address,157.201.97.7,100,322,TRUE,3/26/2018 11:52,R_d5Xb4FzcgwcNKH7,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,Walk In,No,Walk In,,4,3,2,6,5,1,2-3 days,5,4,3,6,2,1,Extremely satisfied,,Somewhat likely,
+3/27/2018 10:39,3/27/2018 11:03,IP Address,157.201.116.186,100,1442,TRUE,3/27/2018 11:03,R_3KQ26yGFQzNnqM5,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,4,1,2,5,6,3,1 day or less,3,1,2,4,6,5,Extremely satisfied,,,
+3/27/2018 11:03,3/27/2018 11:07,IP Address,157.201.116.186,100,242,TRUE,3/27/2018 11:07,R_WBD70Lhr8UmKIKt,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,Email,Yes,,,5,1,2,4,6,3,2-3 days,3,1,2,6,5,4,Extremely satisfied,,Somewhat likely,
+3/27/2018 11:07,3/27/2018 11:22,IP Address,157.201.116.186,100,870,TRUE,3/27/2018 11:22,R_325ZBXQ94gWiCfu,,,,,43.77609253,-111.6910019,anonymous,EN,Student,Yes,Yes,2-3 days,Phone,No,Phone,,4,2,1,5,3,6,1 day or less,4,2,1,5,3,6,Somewhat satisfied,,Somewhat likely,
+3/27/2018 11:22,3/27/2018 11:40,IP Address,157.201.121.225,100,1075,TRUE,3/27/2018 11:40,R_ugYyQatHHIPQK5z,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,"Email,Phone,Live Chat",Yes,,,4,2,3,5,1,6,1 day or less,6,4,3,1,2,5,Somewhat satisfied,,Extremely likely,
+3/28/2018 10:17,3/28/2018 10:19,IP Address,157.201.127.254,100,147,TRUE,3/28/2018 10:19,R_wLQw43aSZ0VgRdn,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,Walk In,Yes,,,4,2,3,5,6,1,1 day or less,4,2,3,5,6,1,Extremely satisfied,,Extremely likely,
+3/28/2018 10:19,3/28/2018 10:22,IP Address,157.201.127.254,100,138,TRUE,3/28/2018 10:22,R_3fUesl8bnhH5yb6,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,5,3,2,6,1,4,1 day or less,5,4,2,6,1,3,Extremely satisfied,,,
+3/28/2018 10:22,3/28/2018 10:31,IP Address,157.201.127.254,100,551,TRUE,3/28/2018 10:31,R_1Fgp6H9vm1G7rjL,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,5,4,3,1,6,2,2-3 days,6,5,4,1,3,2,Somewhat satisfied,,,
+3/28/2018 10:31,3/28/2018 11:05,IP Address,157.201.108.67,100,2056,TRUE,3/28/2018 11:05,R_2uPAdL1bEQi2wgt,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Web Form,Email,Phone,Self Help Articles,Live Chat,Walk In",Yes,,,5,4,1,2,6,3,1 day or less,4,2,1,5,6,3,Somewhat satisfied,,Extremely likely,
+3/28/2018 11:14,3/28/2018 11:16,IP Address,157.201.110.183,100,135,TRUE,3/28/2018 11:16,R_1EceU9NEigY93WP,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,No,,,"Phone,Self Help Articles",Yes,,,,,,,,,,4,2,1,5,6,3,Somewhat satisfied,,Somewhat likely,
+3/28/2018 11:42,3/28/2018 11:53,IP Address,157.201.127.254,100,671,TRUE,3/28/2018 11:53,R_1Dql8paXSlZX51t,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,"Email,Phone,Live Chat,Walk In",Yes,,,5,4,2,6,1,3,1 day or less,5,4,2,6,1,3,Somewhat satisfied,,Somewhat likely,
+3/29/2018 8:31,3/29/2018 10:27,IP Address,157.201.119.221,100,6954,TRUE,3/29/2018 10:27,R_VJ4sBrw3GCAEorT,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,No,,,"Email,Phone,Self Help Articles,Walk In",No,"Phone,Walk In",They couldn't give me accurate answer for my issue,5,4,1,2,6,3,1 day or less,6,2,1,4,5,3,Extremely satisfied,,Extremely likely,
+3/29/2018 10:27,3/29/2018 10:34,IP Address,157.201.99.192,100,394,TRUE,3/29/2018 10:34,R_1N8NJGZXqYwaduE,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,No,,,"Phone,Self Help Articles",Yes,,,4,2,1,3,5,6,1 day or less,4,3,1,5,2,6,Extremely satisfied,,Extremely likely,
+3/29/2018 11:04,3/29/2018 11:10,IP Address,157.201.127.254,100,400,TRUE,3/29/2018 11:10,R_2TMOiTd9Q3hqmXo,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,5,2,3,1,6,4,1 day or less,5,1,2,4,6,3,Extremely satisfied,,,
+3/29/2018 11:10,3/29/2018 11:14,IP Address,157.201.122.211,100,189,TRUE,3/29/2018 11:14,R_2A0DGn7HhdPAOWL,,,,,43.77609253,-111.6910019,anonymous,EN,Student,Yes,Yes,1 day or less,"Web Form,Phone",Yes,,,2,3,1,6,5,4,1 day or less,3,4,2,6,1,5,Extremely satisfied,,Extremely likely,
+3/29/2018 11:14,3/29/2018 11:15,IP Address,157.201.127.254,100,100,TRUE,3/29/2018 11:15,R_2viyiv2t42G3vYc,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,"Web Form,Email,Phone",Yes,,,3,2,1,6,5,4,1 day or less,4,2,1,5,3,6,Extremely satisfied,,Somewhat likely,
+3/29/2018 11:15,3/29/2018 11:27,IP Address,157.201.116.18,100,703,TRUE,3/29/2018 11:27,R_82qmcl7QKXZTBiV,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,"Email,Phone,Walk In",Yes,,,5,3,1,6,4,2,2-3 days,5,4,2,6,1,3,Somewhat satisfied,,Somewhat likely,
+3/29/2018 11:27,3/29/2018 11:44,IP Address,157.201.127.254,100,990,TRUE,3/29/2018 11:44,R_31pljMGSmK7N0WI,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,None of the Above,,,,2,1,5,4,6,3,2-3 days,1,2,6,4,5,3,Somewhat satisfied,,,
+3/29/2018 11:44,3/29/2018 12:02,IP Address,157.201.127.254,100,1079,TRUE,3/29/2018 12:02,R_tLp6g44MQn1Un2p,,,,,43.77609253,-111.6910019,anonymous,EN,Student,No,,,Email,Yes,,,6,1,3,2,4,5,1 day or less,5,3,2,4,1,6,Somewhat satisfied,,Somewhat unlikely,
+3/29/2018 12:02,3/29/2018 12:12,IP Address,157.201.108.156,100,622,TRUE,3/29/2018 12:12,R_2VO0FieON0DHivO,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,2-3 days,"Email,Phone",Yes,,,5,1,2,6,4,3,1 day or less,5,2,1,6,3,4,Extremely satisfied,,Extremely likely,
+4/2/2018 10:47,4/2/2018 11:09,IP Address,157.201.103.97,100,1323,TRUE,4/2/2018 11:09,R_3LcNB8P8lrJZb2d,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,2-3 days,"Email,Phone,Walk In",Yes,,,6,2,1,5,4,3,1 day or less,6,2,1,5,4,3,Extremely satisfied,,Extremely likely,
+4/2/2018 11:09,4/2/2018 11:14,IP Address,157.201.103.97,100,298,TRUE,4/2/2018 11:14,R_3I3QkXDCmMTAcv3,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,"Email,Phone",Yes,,,3,2,1,6,4,5,1 day or less,1,4,3,5,2,6,Extremely satisfied,,Extremely likely,
+4/2/2018 11:14,4/2/2018 11:24,IP Address,157.201.106.151,100,601,TRUE,4/2/2018 11:24,R_1CdP3nODusdoAVQ,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Email,Phone,Self Help Articles,Walk In",Yes,,,6,2,1,3,5,4,1 day or less,6,2,1,4,5,3,Extremely satisfied,,Extremely likely,
+4/2/2018 11:24,4/2/2018 11:42,IP Address,157.201.127.254,100,1052,TRUE,4/2/2018 11:42,R_3nf5NO4QDkgXZET,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,2-3 days,"Email,Phone,Walk In",Yes,,,6,1,2,4,5,3,1 day or less,6,2,1,5,3,4,Extremely satisfied,,Extremely likely,
+4/2/2018 11:42,4/2/2018 11:50,IP Address,157.201.119.124,100,493,TRUE,4/2/2018 11:50,R_2tJTBFyEL0BUlIg,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,No,,"Email,Phone",Yes,,,3,1,2,5,4,6,1 day or less,4,2,3,5,1,6,Somewhat satisfied,,Somewhat likely,
+4/4/2018 10:28,4/4/2018 10:50,IP Address,157.201.103.19,100,1308,TRUE,4/4/2018 10:50,R_10HiZ0sHAiKr0tm,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,4-5 days,Web Form,Yes,,,1,5,3,4,6,2,2-3 days,2,6,4,5,1,3,Somewhat satisfied,,Extremely likely,
+4/4/2018 10:50,4/4/2018 10:54,IP Address,157.201.103.19,100,244,TRUE,4/4/2018 10:54,R_3eb64WjJH2trzoV,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,Walk In,Yes,,,4,2,1,5,6,3,2-3 days,4,3,1,5,6,2,Extremely satisfied,,Extremely likely,
+4/4/2018 10:54,4/4/2018 11:08,IP Address,157.201.104.43,100,801,TRUE,4/4/2018 11:08,R_1P7XqJcsDDS0lUM,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,"Email,Phone,Walk In",No,Walk In,I needed to set a previous appointment by email and I didn't ,4,2,1,5,6,3,1 day or less,5,2,1,6,3,4,Extremely satisfied,,Extremely likely,
+4/4/2018 11:08,4/4/2018 11:13,IP Address,157.201.104.43,100,336,TRUE,4/4/2018 11:13,R_88hhAVKui62Utwd,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,"Email,Phone,Self Help Articles,Walk In",Yes,,,5,1,2,3,6,4,1 day or less,6,1,2,3,5,4,Extremely satisfied,,Extremely likely,
+4/4/2018 11:13,4/4/2018 11:22,IP Address,157.201.127.254,100,498,TRUE,4/4/2018 11:22,R_1iqdoDSBDrr14eK,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,None of the Above,,,,3,2,1,4,5,6,4-5 days,4,3,2,5,1,6,Extremely satisfied,,,
+4/4/2018 11:22,4/4/2018 11:26,IP Address,157.201.104.43,100,265,TRUE,4/4/2018 11:26,R_1ItPi0BwNss9rTZ,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,2-3 days,"Web Form,Email,Phone,Walk In",Yes,,,3,1,2,6,5,4,1 day or less,5,4,2,6,1,3,Extremely satisfied,,Extremely likely,
+4/11/2018 10:03,4/11/2018 10:07,IP Address,157.201.108.113,100,245,TRUE,4/11/2018 10:07,R_31NN6QufK8h3Crg,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,None of the Above,,,,5,4,1,6,3,2,1 day or less,5,4,2,6,1,3,Extremely satisfied,,,
+4/11/2018 10:07,4/11/2018 10:12,IP Address,157.201.108.113,100,277,TRUE,4/11/2018 10:12,R_3FVXO6CNQyNlnvE,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,"Web Form,Email,Phone",Yes,,,3,1,2,4,5,6,2-3 days,3,1,2,4,5,6,Extremely satisfied,,Extremely likely,
+4/11/2018 10:12,4/11/2018 10:15,IP Address,157.201.127.254,100,195,TRUE,4/11/2018 10:15,R_1fejD8dVYnqhGAP,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,2-3 days,"Email,Phone",Yes,,,4,2,1,5,6,3,2-3 days,4,2,1,5,6,3,Extremely satisfied,,Extremely likely,
+4/11/2018 10:15,4/11/2018 10:18,IP Address,157.201.127.254,100,163,TRUE,4/11/2018 10:18,R_20TerPzcXW5GFRM,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,"Phone,Self Help Articles",Yes,,,5,4,1,2,3,6,1 day or less,6,5,2,4,1,3,Extremely satisfied,,Extremely likely,
+4/11/2018 10:18,4/11/2018 10:22,IP Address,157.201.127.254,100,290,TRUE,4/11/2018 10:22,R_1KxokvfAzeVolPf,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,"Phone,Walk In",Yes,,,3,4,2,5,6,1,1 day or less,3,4,2,5,6,1,Extremely satisfied,,Extremely likely,
+4/11/2018 10:24,4/11/2018 10:26,IP Address,157.201.127.254,100,104,TRUE,4/11/2018 10:26,R_urjFM5p9VD2Qljj,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,None of the Above,,,,3,4,1,6,5,2,2-3 days,4,5,2,6,1,3,Extremely satisfied,,,
+4/11/2018 10:26,4/11/2018 10:30,IP Address,157.201.96.29,100,247,TRUE,4/11/2018 10:30,R_1lh5lBjoOpTqKTV,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,Phone,Yes,,,6,2,1,3,4,5,1 day or less,6,3,1,4,2,5,Extremely satisfied,,Extremely likely,
+4/11/2018 10:30,4/11/2018 10:33,IP Address,157.201.116.79,100,192,TRUE,4/11/2018 10:33,R_1jkVeBLM0QEhsp3,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,Phone,Yes,,,4,5,1,6,2,3,1 day or less,4,5,1,6,2,3,Somewhat satisfied,,Somewhat likely,
+4/11/2018 10:33,4/11/2018 10:36,IP Address,157.201.116.79,100,151,TRUE,4/11/2018 10:36,R_dj5RkoMtmUE4Jyh,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,2-3 days,Web Form,Yes,,,1,2,3,4,5,6,2-3 days,,,,,,,Extremely satisfied,,Extremely likely,
+4/11/2018 10:36,4/11/2018 10:38,IP Address,157.201.116.79,100,139,TRUE,4/11/2018 10:38,R_3qCOvs8aYuxKTBl,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,2-3 days,Web Form,Yes,,,,,,,,,1 day or less,1,3,4,5,2,6,Extremely satisfied,,Extremely likely,
+4/11/2018 10:38,4/11/2018 10:49,IP Address,157.201.109.221,100,621,TRUE,4/11/2018 10:49,R_8bI8oe9bUsWDBTj,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,None of the Above,,,,6,5,1,4,2,3,1 day or less,6,4,2,5,1,3,Extremely satisfied,,,
+4/11/2018 10:49,4/11/2018 10:57,IP Address,157.201.127.38,100,535,TRUE,4/11/2018 10:58,R_NXyyRQoGx9ZWvYZ,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,2-3 days,"Web Form,Email,Phone",Yes,,,3,4,1,2,5,6,2-3 days,4,3,5,1,2,6,Extremely satisfied,,Extremely likely,
+4/11/2018 10:58,4/11/2018 11:15,IP Address,157.201.121.195,100,1052,TRUE,4/11/2018 11:15,R_3h0ffF9h9wouNGR,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,Phone,Yes,,,2,3,1,5,4,6,1 day or less,2,3,1,6,4,5,Extremely satisfied,,Extremely likely,
+4/11/2018 11:15,4/11/2018 11:27,IP Address,157.201.117.161,100,706,TRUE,4/11/2018 11:27,R_1fdq0ECCoFmJshv,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,2-3 days,"Web Form,Email,Phone,Live Chat",Yes,,,1,2,5,6,4,3,2-3 days,,,,,,,Extremely satisfied,,Extremely likely,
+4/11/2018 11:27,4/11/2018 11:29,IP Address,157.201.107.37,100,141,TRUE,4/11/2018 11:29,R_3dFigvkDSUzMJyn,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,2-3 days,"Web Form,Phone,Live Chat",Yes,,,2,4,1,5,3,6,1 day or less,4,5,1,3,2,6,Extremely satisfied,,Extremely likely,
+4/11/2018 11:37,4/11/2018 11:45,IP Address,157.201.107.37,100,485,TRUE,4/11/2018 11:45,R_25SmgmxpsiuNgHy,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,Phone,Yes,,,3,2,1,4,5,6,2-3 days,3,4,2,5,1,6,Extremely satisfied,,Extremely likely,
+4/12/2018 11:09,4/12/2018 11:18,IP Address,157.201.120.221,100,523,TRUE,4/12/2018 11:18,R_28UqxTVP6Ihu8E5,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,Phone,Yes,,,2,3,1,6,4,5,1 day or less,3,4,2,6,1,5,Extremely satisfied,,Extremely likely,
+4/12/2018 11:18,4/12/2018 11:21,IP Address,157.201.120.221,100,167,TRUE,4/12/2018 11:21,R_27B8d9XguAJ6IDu,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,None of the Above,,,,4,3,1,5,6,2,1 day or less,4,2,1,5,6,3,Somewhat satisfied,,,
+4/12/2018 11:21,4/12/2018 11:31,IP Address,157.201.110.64,100,636,TRUE,4/12/2018 11:31,R_11jR08nPLXqwSlf,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,"Email,Phone",Yes,,,4,2,1,5,6,3,1 day or less,5,2,1,6,3,4,Extremely satisfied,,Extremely likely,
+4/13/2018 9:43,4/13/2018 9:49,IP Address,157.201.121.176,100,344,TRUE,4/13/2018 9:49,R_29uF7lmKHMeKQ89,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,"Web Form,Email,Phone,Self Help Articles",Yes,,,1,3,2,4,5,6,2-3 days,3,4,2,5,1,6,Extremely satisfied,,Extremely likely,
+4/13/2018 9:49,4/13/2018 9:51,IP Address,157.201.121.176,100,137,TRUE,4/13/2018 9:51,R_1CJdOw7dAQL9Xo8,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,None of the Above,,,,3,2,4,5,1,6,1 day or less,4,2,3,5,1,6,Extremely satisfied,,,
+4/13/2018 9:51,4/13/2018 10:14,IP Address,157.201.102.243,100,1393,TRUE,4/13/2018 10:14,R_3iWRmjxrq4FwnXX,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,"Web Form,Phone,Walk In",Yes,,,3,4,1,5,6,2,1 day or less,3,5,1,6,4,2,Extremely satisfied,,Extremely likely,
+4/13/2018 10:14,4/13/2018 10:30,IP Address,157.201.107.228,100,956,TRUE,4/13/2018 10:30,R_3jVAcYdxWUoWSBV,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,"Web Form,Phone",Yes,,,1,4,2,3,5,6,2-3 days,1,4,2,3,5,6,Extremely satisfied,,Extremely likely,
+5/17/2018 16:22,5/17/2018 16:25,IP Address,157.201.127.129,100,187,TRUE,5/17/2018 16:25,R_9oZRhW8Jq7rr9u1,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,Yes,1 day or less,"Email,Phone",Yes,,,6,2,1,4,5,3,1 day or less,6,5,1,3,2,4,Extremely satisfied,,Somewhat likely,
+5/17/2018 16:25,5/17/2018 16:38,IP Address,157.201.97.27,100,767,TRUE,5/17/2018 16:38,R_vN4WA7glaYYJDVv,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,"Phone,Self Help Articles",Yes,,,5,3,1,2,6,4,2-3 days,5,2,1,4,3,6,Somewhat satisfied,,Extremely likely,
+5/17/2018 16:38,5/17/2018 16:43,IP Address,157.201.97.27,100,302,TRUE,5/17/2018 16:43,R_8kNBBLztU9dmOtj,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,Yes,No,,"Email,Phone",Yes,,,4,3,2,5,6,1,1 day or less,4,2,3,5,6,1,Extremely satisfied,,Somewhat likely,
+5/17/2018 16:43,5/17/2018 16:52,IP Address,157.201.110.134,100,513,TRUE,5/17/2018 16:52,R_xxrr6w8OFF6EPq9,,,,,43.77609253,-111.6910019,anonymous,EN,Administrator,No,,,Live Chat,No,Live Chat,"Never responded, I-learn shot down, heard a reply two days later",3,4,2,5,1,6,1 day or less,5,4,2,6,1,3,Somewhat satisfied,,Extremely likely,
+5/22/2018 11:18,5/22/2018 11:46,IP Address,157.201.111.36,100,1714,TRUE,5/22/2018 11:46,R_2Vqmmo0e1aQTQfb,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Email,Phone,Self Help Articles",Yes,,,3,2,4,1,6,5,1 day or less,,,,,,,Extremely satisfied,,Extremely likely,
+5/22/2018 11:46,5/22/2018 11:50,IP Address,157.201.111.36,100,262,TRUE,5/22/2018 11:50,R_pmcKAn33ef2g9Lr,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,Longer than a week,Phone,Yes,,,3,2,1,4,5,6,1 day or less,4,3,1,5,2,6,Somewhat satisfied,,Somewhat likely,
+5/22/2018 11:50,5/22/2018 11:59,IP Address,157.201.111.36,100,498,TRUE,5/22/2018 11:59,R_1F4HC9Dn5YBuv7e,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Email,Phone,Self Help Articles",Yes,,,4,2,1,3,5,6,1 day or less,5,3,1,2,4,6,Somewhat satisfied,,Somewhat likely,
+5/22/2018 11:59,5/22/2018 12:29,IP Address,157.201.111.36,100,1785,TRUE,5/22/2018 12:29,R_wN1ntNndiIUZQit,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Web Form,Phone,Live Chat",Yes,,,3,4,1,6,2,5,1 day or less,4,3,1,6,2,5,Extremely satisfied,,Extremely likely,
+5/22/2018 12:29,5/22/2018 12:45,IP Address,157.201.127.254,100,1004,TRUE,5/22/2018 12:45,R_4VMLkoAdLMFbOWl,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Web Form,Email,Phone,Self Help Articles",Yes,,,4,2,1,5,3,6,1 day or less,4,3,1,5,2,6,Extremely satisfied,,Extremely likely,
+5/22/2018 12:45,5/22/2018 12:54,IP Address,157.201.127.254,100,543,TRUE,5/22/2018 12:54,R_1l4cezgYRr9GTMn,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,2-3 days,Phone,Yes,,,3,2,1,4,5,6,2-3 days,5,3,1,6,2,4,Extremely satisfied,,Extremely likely,
+5/22/2018 12:54,5/22/2018 12:59,IP Address,157.201.114.74,100,279,TRUE,5/22/2018 12:59,R_3LcCVR5dFqTVk5K,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Email,Phone,Walk In",Yes,,,4,2,1,5,6,3,1 day or less,5,2,1,6,3,4,Extremely satisfied,,Extremely likely,
+5/22/2018 12:59,5/22/2018 13:31,IP Address,157.201.124.54,100,1891,TRUE,5/22/2018 13:31,R_2uDP9cs87QYEZEB,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,2-3 days,"Email,Phone",Yes,,,3,2,1,4,5,6,1 day or less,4,3,1,5,2,6,Somewhat satisfied,,Extremely likely,
+5/22/2018 15:24,5/22/2018 16:00,IP Address,157.201.125.91,100,2162,TRUE,5/22/2018 16:00,R_1mQKzkWBcfVYn1z,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,2-3 days,Email,No,Email,Send the computer in,2,1,3,4,5,6,2-3 days,2,1,3,4,5,6,Somewhat satisfied,,Somewhat likely,
+5/22/2018 16:00,5/22/2018 16:06,IP Address,157.201.125.91,100,390,TRUE,5/22/2018 16:06,R_2cnkvqCAhJTX2Al,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Email,Phone",Yes,,,5,2,1,6,4,3,1 day or less,5,2,1,6,4,3,Extremely satisfied,,Extremely likely,
+5/22/2018 16:06,5/22/2018 16:09,IP Address,157.201.125.91,100,132,TRUE,5/22/2018 16:09,R_Y00MTT3AvNv6cZb,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,2-3 days,"Email,Phone,Walk In",Yes,,,6,2,1,4,5,3,1 day or less,6,2,1,5,3,4,Extremely satisfied,,Extremely likely,
+5/22/2018 16:09,5/22/2018 16:18,IP Address,157.201.125.91,100,597,TRUE,5/22/2018 16:18,R_2UbzKAZhsNdey7Q,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,2-3 days,"Email,Phone",No,Email,"Original problem was resolved, but it created another problem that needed resolution.",4,2,1,5,3,6,2-3 days,4,3,2,5,1,6,Somewhat satisfied,,Somewhat likely,
+5/22/2018 16:18,5/22/2018 16:29,IP Address,157.201.107.136,100,660,TRUE,5/22/2018 16:29,R_1DYC8Od3d5gXB8w,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,No,,"Email,Phone",No,Email,Submited a request and never heard back,2,1,3,5,4,6,2-3 days,4,3,2,5,1,6,Somewhat satisfied,,Somewhat likely,
+6/6/2018 15:16,6/6/2018 15:25,IP Address,157.201.117.107,100,553,TRUE,6/6/2018 15:25,R_3IQzohK3QCvHPnl,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,2-3 days,"Web Form,Email,Phone",Yes,,,3,2,1,4,6,5,1 day or less,4,2,1,5,3,6,Extremely satisfied,,Extremely likely,
+6/6/2018 15:25,6/6/2018 15:45,IP Address,157.201.97.147,100,1211,TRUE,6/6/2018 15:45,R_1oaOJAYv6nkCJm7,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Web Form,Email,Phone,Walk In",Yes,,,4,2,1,5,6,3,1 day or less,4,5,1,6,2,3,Extremely satisfied,,Extremely likely,
+6/6/2018 15:45,6/6/2018 15:51,IP Address,157.201.101.150,100,347,TRUE,6/6/2018 15:51,R_VXqV1OhcVMLakdb,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,Email,Yes,,,5,1,2,6,3,4,2-3 days,2,4,1,5,3,6,Somewhat satisfied,,Extremely likely,
+6/7/2018 13:13,6/7/2018 13:41,IP Address,157.201.123.27,100,1673,TRUE,6/7/2018 13:41,R_3szdhNvxDFDbdkJ,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Web Form,Email,Phone,Self Help Articles,Walk In",Yes,,,3,2,1,6,5,4,1 day or less,5,3,1,6,2,4,Extremely satisfied,,Extremely likely,
+6/7/2018 15:34,6/7/2018 15:39,IP Address,157.201.116.150,100,291,TRUE,6/7/2018 15:39,R_psfSmITxTvpe7It,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,Phone,No,Phone,"After updated software it wouldn't let him connect with printer and print specific types or fonts, eventually solved it",3,2,1,5,4,6,2-3 days,3,2,1,5,4,6,Somewhat satisfied,,Extremely likely,
+6/7/2018 15:39,6/7/2018 16:14,IP Address,157.201.127.107,100,2119,TRUE,6/7/2018 16:14,R_55t3aIwxRF5fOO5,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Email,Phone,Live Chat",No,Phone,Snow building have many tech challenges in the classrooms. She had to call IT support to get the digital projector to work in the classrooms. Needed to reboot the projectors 5 times room 270 really bad tech lab,5,2,1,4,3,6,1 day or less,5,2,1,4,3,6,Extremely satisfied,,Extremely likely,
+6/7/2018 16:14,6/7/2018 16:28,IP Address,157.201.117.52,100,816,TRUE,6/7/2018 16:28,R_1KwLCzqRbLVYS10,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Email,Phone,Walk In",Yes,,,4,2,1,5,6,3,1 day or less,5,2,1,6,3,4,Extremely satisfied,,Extremely likely,
+6/8/2018 13:53,6/8/2018 14:45,IP Address,157.201.108.113,100,3165,TRUE,6/8/2018 14:45,R_1P5gEJ9NFoli6AV,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,Phone,Yes,,,2,3,1,4,5,6,1 day or less,2,3,1,4,5,6,Extremely satisfied,,Extremely likely,
+6/8/2018 14:45,6/8/2018 14:49,IP Address,157.201.108.113,100,213,TRUE,6/8/2018 14:49,R_2YMpILekI3Yi9i8,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Email,Phone",Yes,,,4,2,1,5,6,3,1 day or less,5,2,1,6,4,3,Extremely satisfied,,Extremely likely,
+6/8/2018 14:49,6/8/2018 15:07,IP Address,157.201.118.98,100,1061,TRUE,6/8/2018 15:07,R_zVcDVW2QkzinQiJ,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Email,Phone",Yes,,,3,2,1,4,5,6,1 day or less,4,2,1,5,3,6,Somewhat satisfied,,Extremely likely,
+6/8/2018 15:07,6/8/2018 15:16,IP Address,157.201.127.254,100,574,TRUE,6/8/2018 15:16,R_2ylrF7Jtz4p73vB,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Email,Phone,Live Chat",No,Email,clark 143 projector was fixed but it broken down again after 2 weeks,4,1,2,5,3,6,1 day or less,4,1,2,5,3,6,Extremely satisfied,,Extremely likely,
+6/8/2018 15:16,6/8/2018 15:21,IP Address,157.201.106.25,100,277,TRUE,6/8/2018 15:21,R_30xfGHJZ5aw9x0V,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Phone,Walk In",Yes,,,4,3,1,5,6,2,1 day or less,5,3,2,6,1,4,Extremely satisfied,,Extremely likely,
+6/8/2018 15:21,6/8/2018 15:50,IP Address,157.201.107.252,100,1769,TRUE,6/8/2018 15:50,R_9YajlrItbnDOI1P,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Email,Phone,Live Chat",Yes,,,5,3,1,6,2,4,1 day or less,4,3,2,5,1,6,Extremely satisfied,,Extremely likely,
+6/8/2018 15:50,6/8/2018 16:15,IP Address,157.201.116.65,100,1457,TRUE,6/8/2018 16:15,R_3hyfpvSMAjQRRtc,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,None of the Above,,,,3,1,2,4,5,6,1 day or less,5,1,2,6,4,3,Somewhat satisfied,,Somewhat likely,
+6/8/2018 16:15,6/8/2018 16:26,IP Address,157.201.99.153,100,667,TRUE,6/8/2018 16:26,R_DuwRytDL0vK53sR,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,1 day or less,"Web Form,Email,Phone",Yes,,,1,2,6,3,4,5,4-5 days,1,2,6,3,4,5,Extremely satisfied,,Extremely likely,
+6/8/2018 16:26,6/8/2018 16:31,IP Address,157.201.99.153,100,306,TRUE,6/8/2018 16:31,R_3EyQDVBnKUfbKX8,,,,,43.77609253,-111.6910019,anonymous,EN,Faculty/Staff,Yes,Yes,2-3 days,"Phone,Walk In",Yes,,,4,3,1,5,6,2,4-5 days,5,4,1,6,3,2,Somewhat satisfied,,Extremely likely,
